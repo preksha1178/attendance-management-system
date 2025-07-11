@@ -89,6 +89,8 @@ CREATE TABLE attendance (
     status VARCHAR(10)
 );
 
+
+
 Example DB credentials in your code:
 String url = "jdbc:mysql://localhost:3306/attendance";
 String user = "root";
