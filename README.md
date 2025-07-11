@@ -89,18 +89,22 @@ CREATE TABLE attendance (
     status VARCHAR(10)
 );
 
-
+---
 
 Example DB credentials in your code:
 String url = "jdbc:mysql://localhost:3306/attendance";
 String user = "root";
 String pass = "";
 
+---
+
 ## 🧑‍💻 Author
 Preksha
 🎓 3rd Year BCA Student
 📬 GitHub Profile
 📍 Passionate about Java, DBMS, and real-world applications
+
+---
 
 
 💡 Future Enhancements
@@ -112,6 +116,8 @@ Email attendance reports to students
 
 Role-based dashboards
 
+---
+
 
 📬 How to Run
 Import project in Eclipse
@@ -121,6 +127,9 @@ Set up your MySQL DB
 Run Login.java or main method
 
 Log in as Admin/Teacher/Student and explore!
+
+
+---
 
 📄 License
 This project is intended for academic learning purposes only.
